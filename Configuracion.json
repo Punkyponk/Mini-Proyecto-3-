@@ -1,0 +1,11 @@
+{
+    "Encabezado": True,
+	"ArchivoEntrada":"hombres.csv",
+	"ArchivoSalida":"salida.sql",
+	"Tabla": "hombres",
+	"Columnas":[
+    	{"Posicion":0,"Tipo":"String"},
+    	{"Posicion":1, "Tipo":"Int"},
+    	{"Posicion":2,"Tipo":"Float"}
+	]
+}
